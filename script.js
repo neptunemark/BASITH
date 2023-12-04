@@ -10,8 +10,8 @@ const person = {
 };
 
 const contact ={
-    contact_no: "+974030771273",
-    whatsapp: "+974030771273",
+    contact_no: "+97430771273",
+    whatsapp: "+97430771273",
     location: "",
     email: "neptunemarkindia@gmail.com",
 };
