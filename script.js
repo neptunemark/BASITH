@@ -6,7 +6,7 @@ const person = {
     designation: "Director",
     des_link_text: "@Neptunemark",
     des_link: "",
-    contact: "./contact/Abdul Basith(2).vcf",
+    contact: "./contact/basith.vcf",
 };
 
 const contact ={
